@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ML specific
+*.h5
+*.pkl
+*.joblib
+data/raw/*
+models/*.pth
+mlruns/
+wandb/
+
+# Environment
+.env
+*.log
