@@ -19,3 +19,6 @@ pip install -r requirements.txt
 
 ## Usage
 Details coming soon...
+
+## Latest Update
+Added training script
